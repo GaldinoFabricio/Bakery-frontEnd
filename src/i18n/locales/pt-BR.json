@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Início",
+    "products": "Produtos",
+    "services": "Serviços",
+    "about": "Sobre Nós",
+    "blog": "Blog",
+    "contact": "Contato"
+  },
+  "home": {
+    "hero": {
+      "title": "Produtos Artesanais Feitos com Amor",
+      "subtitle": "Pães, doces e bolos artesanais usando receitas tradicionais e os melhores ingredientes",
+      "cta": "Explorar Nossos Produtos"
+    },
+    "featured": {
+      "title": "Produtos em Destaque",
+      "subtitle": "Nossa Especialidade",
+      "description": "Descubra nossas delícias artesanais mais populares, feitas diariamente com receitas tradicionais e os melhores ingredientes",
+      "viewAll": "Ver Todos os Produtos"
+    },
+    "categories": {
+      "title": "Explore Nossas Categorias",
+      "breads": "Pães Artesanais",
+      "cakes": "Bolos Deliciosos",
+      "brownies": "Brownies Especiais",
+      "donuts": "Donuts Frescos"
+    },
+    "countdown": {
+      "title": "Próxima Fornada em Breve",
+      "subtitle": "Fresquinho do Forno",
+      "description": "Assamos pães frescos durante todo o dia. Pegue nossa próxima fornada direto do forno, ainda quentinha e aromática. Não perca!"
+    }
+  },
+  "footer": {
+    "about": "Pães, doces e bolos artesanais feitos com amor usando receitas tradicionais e os melhores ingredientes.",
+    "quickLinks": "Links Rápidos",
+    "contact": "Contato",
+    "hours": "Horário de Funcionamento",
+    "copyright": "© {{year}} Artisan Bakery. Todos os direitos reservados.",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço"
+  }
+}

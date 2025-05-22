@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "services": "Services",
+    "about": "About Us",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Artisan Baked Goods Made with Love",
+      "subtitle": "Handcrafted bread, pastries, and cakes using traditional recipes and the finest ingredients",
+      "cta": "Explore Our Products"
+    },
+    "featured": {
+      "title": "Featured Products",
+      "subtitle": "Our Specialty",
+      "description": "Discover our most popular handcrafted delights, made fresh daily using traditional recipes and the finest ingredients",
+      "viewAll": "View All Products"
+    },
+    "categories": {
+      "title": "Explore Our Categories",
+      "breads": "Artisan Breads",
+      "cakes": "Delicious Cakes",
+      "brownies": "Decadent Brownies",
+      "donuts": "Fresh Donuts"
+    },
+    "countdown": {
+      "title": "Next Batch Coming Soon",
+      "subtitle": "Fresh From The Oven",
+      "description": "We bake fresh bread throughout the day. Catch our next batch straight from the oven, still warm and aromatic. Set a reminder so you don't miss out!"
+    }
+  },
+  "footer": {
+    "about": "Handcrafted breads, pastries, and cakes made with love using traditional recipes and the finest ingredients.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact Us",
+    "hours": "Opening Hours",
+    "copyright": "© {{year}} Artisan Bakery. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
